@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8139731932467994199}
   - component: {fileID: -8319223965691340921}
   m_Layer: 0
-  m_Name: Enemy 0
+  m_Name: Enemy 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecc03e71bf6d6d94693f26ba50dc36b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waveConfig: {fileID: 11400000, guid: df2f909e01d92fa4583073bf30227074, type: 2}
+  waveConfig: {fileID: 11400000, guid: e6e391904a15a2b43b5fced9b01769c0, type: 2}
 --- !u!1 &9100794297818226932
 GameObject:
   m_ObjectHideFlags: 0
